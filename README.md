@@ -12,6 +12,6 @@ Separate code from data in a way that the code resides in functions whose behavi
 
 When we are careful to separate code from data, our program benefit from:
 
-1. Code can be _reused_ in different context.
-2. Code can be _tested_ in isolation.
-3. System tend to be _less complex_
+1. Code can be **reused** in different context.
+2. Code can be **tested** in isolation.
+3. System tend to be **less complex**
